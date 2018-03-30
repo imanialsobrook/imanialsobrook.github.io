@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+body {
+	background-image: url("background-image: url(http://4hdwallpapers.com/wp-content/uploads/2013/04/Beautiful-Beach-Landscape.png");
+	
+/*  padding-top: 50px;
+*/}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+  
+}
+h1{
+	font-family: Lobster;
+	color:White;
+}
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url();
+    background-position:60%;
+    background-size: cover;
+    text-decoration-color: black;
+}
+a{
+	color:black;
+}
+
+
+.yay{
+	color:white;
+}
+/*.carousel-item.active{
+	width:932px;
+	height:100%;
+}*/
+.carousel-inner{
+	height: 600px;
+	length: 200px;
+}
+.col-md-6{
+	width:800px;
+}
